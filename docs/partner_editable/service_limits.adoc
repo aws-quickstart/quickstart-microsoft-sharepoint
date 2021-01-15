@@ -10,5 +10,5 @@
 |Auto Scaling groups |1
 |Application Load Balancers |1
 |Network Load Balancers |1
-|EC2 instances |8
+|EC2 instances |9
 |===
